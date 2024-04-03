@@ -6,4 +6,4 @@ const EditBook = () => {
   )
 }
 
-export default EditBook
+export default EditBook;
